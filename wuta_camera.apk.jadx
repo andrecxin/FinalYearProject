@@ -1,0 +1,18 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "wuta_camera.apk"
+  ],
+  "treeExpansions": [],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [],
+  "cacheDir": "/home/kali/.cache/jadx/projects/wuta_camera-26c2b9554b1a8816ded3620153e16fbf",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "apiKey"
+  ],
+  "pluginOptions": {}
+}
