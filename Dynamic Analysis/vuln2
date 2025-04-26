@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE items [
+<!ELEMENT items (item*)>
+<!ATTLIST items burpVersion CDATA "">
+<!ATTLIST items exportTime CDATA "">
+<!ELEMENT item (time, url, host, port, protocol, method, path, extension, request, status, responselength, mimetype, response, comment)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT host (#PCDATA)>
+<!ATTLIST host ip CDATA "">
+<!ELEMENT port (#PCDATA)>
+<!ELEMENT protocol (#PCDATA)>
+<!ELEMENT method (#PCDATA)>
+<!ELEMENT path (#PCDATA)>
+<!ELEMENT extension (#PCDATA)>
+<!ELEMENT request (#PCDATA)>
+<!ATTLIST request base64 (true|false) "false">
+<!ELEMENT status (#PCDATA)>
+<!ELEMENT responselength (#PCDATA)>
+<!ELEMENT mimetype (#PCDATA)>
+<!ELEMENT response (#PCDATA)>
+<!ATTLIST response base64 (true|false) "false">
+<!ELEMENT comment (#PCDATA)>
+]>
+<items burpVersion="2025.3.3" exportTime="Thu Apr 24 23:54:24 BST 2025">
+  <item>
+    <time>Thu Apr 24 23:08:30 BST 2025</time>
+    <url><![CDATA[https://res-release.wuta-cam.com/photo_retouching/json/photo_retouching_component_tree_151.json.md5?t=1745532494952]]></url>
+    <host ip="79.133.176.209">res-release.wuta-cam.com</host>
+    <port>443</port>
+    <protocol>https</protocol>
+    <method><![CDATA[GET]]></method>
+    <path><![CDATA[/photo_retouching/json/photo_retouching_component_tree_151.json.md5?t=1745532494952]]></path>
+    <extension>md5</extension>
+    <request base64="true"><![CDATA[R0VUIC9waG90b19yZXRvdWNoaW5nL2pzb24vcGhvdG9fcmV0b3VjaGluZ19jb21wb25lbnRfdHJlZV8xNTEuanNvbi5tZDU/dD0xNzQ1NTMyNDk0OTUyIEhUVFAvMg0KSG9zdDogcmVzLXJlbGVhc2Uud3V0YS1jYW0uY29tDQpDYWNoZS1Db250cm9sOiBuby1jYWNoZQ0KQWNjZXB0LUVuY29kaW5nOiBnemlwLCBkZWZsYXRlLCBicg0KVXNlci1BZ2VudDogb2todHRwLzQuMTAuMA0KDQo=]]></request>
+    <status>200</status>
+    <responselength>917</responselength>
+    <mimetype>text</mimetype>
+    <response base64="true"><![CDATA[SFRUUC8yIDIwMCBPSw0KU2VydmVyOiBUZW5naW5lDQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24NCkNvbnRlbnQtTGVuZ3RoOiAzMg0KRGF0ZTogVGh1LCAyNCBBcHIgMjAyNSAyMjowODoxNyBHTVQNClgtT3NzLVJlcXVlc3QtSWQ6IDY4MEFCNjUxNTMzNkYxMzgzMzQyMjExQg0KWC1Pc3MtQ2RuLUF1dGg6IHN1Y2Nlc3MNCkFjY2VwdC1SYW5nZXM6IGJ5dGVzDQpFdGFnOiAiRDRDNkUwRjJBRTZGMzlFN0Q4ODdENEU5MDQ2Q0I3QTAiDQpMYXN0LU1vZGlmaWVkOiBXZWQsIDIyIEphbiAyMDI1IDA3OjU3OjQxIEdNVA0KWC1Pc3MtT2JqZWN0LVR5cGU6IE5vcm1hbA0KWC1Pc3MtSGFzaC1DcmM2NGVjbWE6IDQyMzcwNjI0MjM1OTQyMzM0Nw0KWC1Pc3MtU3RvcmFnZS1DbGFzczogU3RhbmRhcmQNClgtT3NzLU1ldGEtR2lkOiAxMDAwDQpYLU9zcy1NZXRhLU1vZGU6IDMzMTg4DQpYLU9zcy1NZXRhLU10aW1lOiAxNzM3NTMyNjYxDQpYLU9zcy1NZXRhLVVpZDogMTAwMA0KQ29udGVudC1NZDU6IDFNYmc4cTV2T2VmWWg5VHBCR3kzb0E9PQ0KWC1Pc3MtU2VydmVyLVRpbWU6IDENClZpYTogY2FjaGUxNC5sMmZyMVs1MjQsNTI0LDIwMC0wLE1dLCBjYWNoZTEwLmwyZnIxWzUyNSwwXSwgZW5zLWNhY2hlOS5nYjZbNTU1LDU1NSwyMDAtMCxNXSwgZW5zLWNhY2hlOC5nYjZbNTU3LDBdDQpBbGktU3dpZnQtR2xvYmFsLVNhdmV0aW1lOiAxNzQ1NTMyNDk3DQpYLUNhY2hlOiBNSVNTIFRDUF9NSVNTIGRpcm46LTI6LTINClgtU3dpZnQtU2F2ZXRpbWU6IFRodSwgMjQgQXByIDIwMjUgMjI6MDg6MTcgR01UDQpYLVN3aWZ0LUNhY2hldGltZTogMzYwMA0KVGltaW5nLUFsbG93LU9yaWdpbjogKg0KRWFnbGVpZDogNGY4NWIwOWMxNzQ1NTMyNDk2Nzc3NDY1NmUNCg0KMWE0NmFmODgyMTk2Zjc1ZWZiNDg0MDBjOGU1Njg3ODg=]]></response>
+    <comment></comment>
+  </item>
+</items>
