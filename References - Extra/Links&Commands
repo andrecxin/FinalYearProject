@@ -2,3 +2,4 @@ MobSF Dynamic Analysis - https://www.youtube.com/watch?v=4nzt1uwuwf8
 Run MobSF on command line - docker run -it --rm -p 8000:8000 -v "C:\Users\andre\MobSF\workspace:/root/.MobSF" opensecurity/mobile-security-framework-mobsf:latest
 With device - docker run -it --rm -p 8000:8000 -v "C:\Users\andre\MobSF\workspace:/root/.MobSF"  -e MOBSF_ANALYZER_IDENTIFIER=192.168.56.102:5555 opensecurity/mobile-security-framework-mobsf:latest
 How to use: https://medium.com/fmisec/android-penetration-testing-using-dynamic-analyzer-mobsf-465a41197a5f
+google play for genymotion: https://sourceforge.net/projects/opengapps/files/x86/20220503/open_gapps-x86-9.0-pico-20220503.zip/download?use_mirror=unlimited&r=&use_mirror=autoselect
