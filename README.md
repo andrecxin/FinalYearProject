@@ -9,7 +9,7 @@ The project involved:
   - Tools: MobSF, JADX  
 
 - **Dynamic Analysis:**  
-  - Tool: Burp Suite Community  
+  - Tool: Burp Suite Community, MobSF  
 
 - **Manual Review:**  
   - Decompiling APK source to validate automatic findings.
